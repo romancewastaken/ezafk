@@ -5,8 +5,8 @@ Valorant anti afk script written in C#
 ------------------------------------------------------
 | Features | Supported                               |
 | ------- | -----------------------------------------|
-| Anti Afk | :white_check_mark:                      |
-| Random Anti Afk | :white_check_mark:               |
+| Movement | :white_check_mark:                      |
+| Random movement | :white_check_mark:               |
 | Mouse Input   | :white_check_mark:                 | 
 | Join match | :x:                                   | 
 ------------------------------------------------------
