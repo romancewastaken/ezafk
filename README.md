@@ -1,7 +1,7 @@
 ## ezafk
 Valorant anti afk script written in C#
 
-# Features
+## Features
 ------------------------------------------------------
 | Features | Supported                               |
 | ------- | -----------------------------------------|
@@ -36,3 +36,6 @@ Limitations
 <br></br>
 
 License being used: **GNU General Public License v2.0 license**
+
+## Pull requests
+Feel free to make any pull requests [here](https://github.com/romance999/ezafk/pulls)
