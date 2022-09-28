@@ -1,6 +1,5 @@
-# ezafk
-Valorant anti afk script
+## ezafk
+Valorant anti afk script written in C#
 
-# Downloads
-
-## a
+## Downloads
+* [Release](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
